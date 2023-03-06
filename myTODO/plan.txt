@@ -1,0 +1,7 @@
+* Make new app and redirect to taskview page after login
+* List all tasks for the users current day
+    * conditional in template
+* Right arrow to view tomorrows list
+* Left arrow to view yesterdays list
+* Toggle on top center of screen with button for stats page and button back
+
